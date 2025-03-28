@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ITology s.r.o.</title>
-    <link>https://jirimar.github.io/itology/cs/tags/</link>
+    <link>https://jirimar.github.io/cs/tags/</link>
     <description>Recent content in Tags on ITology s.r.o.</description>
     <generator>Hugo</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jirimar.github.io/itology/cs/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jirimar.github.io/cs/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Css</title>
-      <link>https://jirimar.github.io/itology/cs/tags/css/</link>
+      <link>https://jirimar.github.io/cs/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jirimar.github.io/itology/cs/tags/css/</guid>
+      <guid>https://jirimar.github.io/cs/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>https://jirimar.github.io/itology/cs/tags/html/</link>
+      <link>https://jirimar.github.io/cs/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jirimar.github.io/itology/cs/tags/html/</guid>
+      <guid>https://jirimar.github.io/cs/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
-      <link>https://jirimar.github.io/itology/cs/tags/index/</link>
+      <link>https://jirimar.github.io/cs/tags/index/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jirimar.github.io/itology/cs/tags/index/</guid>
+      <guid>https://jirimar.github.io/cs/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://jirimar.github.io/itology/cs/tags/markdown/</link>
+      <link>https://jirimar.github.io/cs/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jirimar.github.io/itology/cs/tags/markdown/</guid>
+      <guid>https://jirimar.github.io/cs/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>https://jirimar.github.io/itology/cs/tags/privacy/</link>
+      <link>https://jirimar.github.io/cs/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jirimar.github.io/itology/cs/tags/privacy/</guid>
+      <guid>https://jirimar.github.io/cs/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>https://jirimar.github.io/itology/cs/tags/shortcodes/</link>
+      <link>https://jirimar.github.io/cs/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jirimar.github.io/itology/cs/tags/shortcodes/</guid>
+      <guid>https://jirimar.github.io/cs/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Text</title>
-      <link>https://jirimar.github.io/itology/cs/tags/text/</link>
+      <link>https://jirimar.github.io/cs/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jirimar.github.io/itology/cs/tags/text/</guid>
+      <guid>https://jirimar.github.io/cs/tags/text/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>https://jirimar.github.io/itology/cs/tags/emoji/</link>
+      <link>https://jirimar.github.io/cs/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jirimar.github.io/itology/cs/tags/emoji/</guid>
+      <guid>https://jirimar.github.io/cs/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>

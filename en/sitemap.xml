@@ -2,336 +2,336 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jirimar.github.io/itology/products/analysis/</loc>
+    <loc>https://jirimar.github.io/products/analysis/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://jirimar.github.io/itology/cs/products/consulting/</loc>
+    <loc>https://jirimar.github.io/cs/products/consulting/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://jirimar.github.io/itology/products/dwh/</loc>
+    <loc>https://jirimar.github.io/products/dwh/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://jirimar.github.io/itology/cs/products/example/</loc>
+    <loc>https://jirimar.github.io/cs/products/example/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://jirimar.github.io/itology/products/support/</loc>
+    <loc>https://jirimar.github.io/products/support/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://jirimar.github.io/itology/products/reporting/</loc>
+    <loc>https://jirimar.github.io/products/reporting/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://jirimar.github.io/itology/</loc>
-    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jirimar.github.io/itology/"
-                />
-  </url><url>
-    <loc>https://jirimar.github.io/itology/cs/</loc>
-    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
-  </url><url>
-    <loc>https://jirimar.github.io/itology/cs/products/</loc>
-    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
-  </url><url>
-    <loc>https://jirimar.github.io/itology/products/</loc>
+    <loc>https://jirimar.github.io/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/products/"
+                href="https://jirimar.github.io/cs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/products/"
+                href="https://jirimar.github.io/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/categories/</loc>
+    <loc>https://jirimar.github.io/cs/</loc>
+    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
+  </url><url>
+    <loc>https://jirimar.github.io/cs/products/</loc>
+    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
+  </url><url>
+    <loc>https://jirimar.github.io/products/</loc>
+    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://jirimar.github.io/cs/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jirimar.github.io/products/"
+                />
+  </url><url>
+    <loc>https://jirimar.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/categories/"
+                href="https://jirimar.github.io/cs/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/categories/"
+                href="https://jirimar.github.io/categories/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/tags/css/</loc>
+    <loc>https://jirimar.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/tags/css/"
+                href="https://jirimar.github.io/cs/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/tags/css/"
+                href="https://jirimar.github.io/tags/css/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/tags/html/</loc>
+    <loc>https://jirimar.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/tags/html/"
+                href="https://jirimar.github.io/cs/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/tags/html/"
+                href="https://jirimar.github.io/tags/html/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/tags/index/</loc>
+    <loc>https://jirimar.github.io/tags/index/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/tags/index/"
+                href="https://jirimar.github.io/cs/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/tags/index/"
+                href="https://jirimar.github.io/tags/index/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/tags/markdown/</loc>
+    <loc>https://jirimar.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/tags/markdown/"
+                href="https://jirimar.github.io/cs/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/tags/markdown/"
+                href="https://jirimar.github.io/tags/markdown/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/blog/markdown-syntax/</loc>
+    <loc>https://jirimar.github.io/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/blog/markdown-syntax/"
+                href="https://jirimar.github.io/cs/blog/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/blog/markdown-syntax/"
+                href="https://jirimar.github.io/blog/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/cs/blog/markdown-syntax/</loc>
+    <loc>https://jirimar.github.io/cs/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jirimar.github.io/itology/blog/</loc>
+    <loc>https://jirimar.github.io/blog/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/blog/"
+                href="https://jirimar.github.io/cs/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/blog/"
+                href="https://jirimar.github.io/blog/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/cs/blog/</loc>
+    <loc>https://jirimar.github.io/cs/blog/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jirimar.github.io/itology/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jirimar.github.io/itology/categories/syntax/"
-                />
-  </url><url>
-    <loc>https://jirimar.github.io/itology/tags/</loc>
+    <loc>https://jirimar.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/tags/"
+                href="https://jirimar.github.io/cs/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/tags/"
+                href="https://jirimar.github.io/categories/syntax/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/categories/themes/</loc>
+    <loc>https://jirimar.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/categories/themes/"
+                href="https://jirimar.github.io/cs/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/categories/themes/"
+                href="https://jirimar.github.io/tags/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/tags/privacy/</loc>
+    <loc>https://jirimar.github.io/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://jirimar.github.io/cs/categories/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jirimar.github.io/categories/themes/"
+                />
+  </url><url>
+    <loc>https://jirimar.github.io/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/tags/privacy/"
+                href="https://jirimar.github.io/cs/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/tags/privacy/"
+                href="https://jirimar.github.io/tags/privacy/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/blog/rich-content/</loc>
+    <loc>https://jirimar.github.io/blog/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/blog/rich-content/"
+                href="https://jirimar.github.io/cs/blog/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/blog/rich-content/"
+                href="https://jirimar.github.io/blog/rich-content/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/cs/blog/rich-content/</loc>
+    <loc>https://jirimar.github.io/cs/blog/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jirimar.github.io/itology/tags/shortcodes/</loc>
+    <loc>https://jirimar.github.io/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/tags/shortcodes/"
+                href="https://jirimar.github.io/cs/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/tags/shortcodes/"
+                href="https://jirimar.github.io/tags/shortcodes/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/blog/placeholder-text/</loc>
+    <loc>https://jirimar.github.io/blog/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/blog/placeholder-text/"
+                href="https://jirimar.github.io/cs/blog/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/blog/placeholder-text/"
+                href="https://jirimar.github.io/blog/placeholder-text/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/cs/blog/placeholder-text/</loc>
+    <loc>https://jirimar.github.io/cs/blog/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jirimar.github.io/itology/tags/text/</loc>
+    <loc>https://jirimar.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/tags/text/"
+                href="https://jirimar.github.io/cs/tags/text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/tags/text/"
+                href="https://jirimar.github.io/tags/text/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/blog/math-typesetting/</loc>
+    <loc>https://jirimar.github.io/blog/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/blog/math-typesetting/"
+                href="https://jirimar.github.io/cs/blog/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/blog/math-typesetting/"
+                href="https://jirimar.github.io/blog/math-typesetting/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/cs/blog/math-typesetting/</loc>
+    <loc>https://jirimar.github.io/cs/blog/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jirimar.github.io/itology/tags/emoji/</loc>
+    <loc>https://jirimar.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/tags/emoji/"
+                href="https://jirimar.github.io/cs/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/tags/emoji/"
+                href="https://jirimar.github.io/tags/emoji/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/blog/emoji-support/</loc>
+    <loc>https://jirimar.github.io/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/blog/emoji-support/"
+                href="https://jirimar.github.io/cs/blog/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/blog/emoji-support/"
+                href="https://jirimar.github.io/blog/emoji-support/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/cs/blog/emoji-support/</loc>
+    <loc>https://jirimar.github.io/cs/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jirimar.github.io/itology/about/</loc>
+    <loc>https://jirimar.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/about/"
+                href="https://jirimar.github.io/cs/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/about/"
+                href="https://jirimar.github.io/about/"
                 />
   </url><url>
-    <loc>https://jirimar.github.io/itology/cs/about/</loc>
+    <loc>https://jirimar.github.io/cs/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jirimar.github.io/itology/cs/contact/</loc>
+    <loc>https://jirimar.github.io/cs/contact/</loc>
   </url><url>
-    <loc>https://jirimar.github.io/itology/contact/</loc>
+    <loc>https://jirimar.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="https://jirimar.github.io/itology/cs/contact/"
+                href="https://jirimar.github.io/cs/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jirimar.github.io/itology/contact/"
+                href="https://jirimar.github.io/contact/"
                 />
   </url>
 </urlset>
