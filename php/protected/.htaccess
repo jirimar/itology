@@ -1,0 +1,6 @@
+# Povolit použití PHP skriptů a přepis
+Options +ExecCGI
+AddHandler php-script .php
+
+# Přesměrovat všechny požadavky na index.php (router)
+DirectoryIndex index.php
