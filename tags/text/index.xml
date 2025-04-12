@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Text on ITology s.r.o.</title>
-    <link>https://example.com/tags/text/</link>
+    <link>https://jirimar.github.io/tags/text/</link>
     <description>Recent content in Text on ITology s.r.o.</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jirimar.github.io/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder Text</title>
-      <link>https://example.com/blog/placeholder-text/</link>
+      <link>https://jirimar.github.io/blog/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/placeholder-text/</guid>
+      <guid>https://jirimar.github.io/blog/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Placeholder Text</title>
-      <link>https://example.com/cs/blog/placeholder-text/</link>
+      <link>https://jirimar.github.io/cs/blog/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/cs/blog/placeholder-text/</guid>
+      <guid>https://jirimar.github.io/cs/blog/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Co nabízíme on ITology s.r.o.</title>
-    <link>https://example.com/cs/products/</link>
+    <link>https://jirimar.github.io/cs/products/</link>
     <description>Recent content in Co nabízíme on ITology s.r.o.</description>
     <generator>Hugo</generator>
     <language>cs</language>
     <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate>
-    <atom:link href="https://example.com/cs/products/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jirimar.github.io/cs/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Business analýza</title>
-      <link>https://example.com/cs/products/analysis/</link>
+      <link>https://jirimar.github.io/cs/products/analysis/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>https://example.com/cs/products/analysis/</guid>
+      <guid>https://jirimar.github.io/cs/products/analysis/</guid>
       <description>&lt;p&gt;Nabízíme komplexní služby v oblasti business analýzy, které pomáhají organizacím jasně definovat své potřeby a přetavit je do efektivních a realizovatelných IT řešení.&lt;/p&gt;&#xA;&lt;p&gt;Naši business analytici úzce spolupracují se stakeholdery na:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;identifikaci a upřesnění obchodních požadavků&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;vyhodnocení současného stavu a definici cílové vize&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;odhadu nákladů na realizaci a posouzení dopadů projektu&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;sestavení časových a kapacitních odhadů&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;přípravě detailního funkčního a technického návrhu (detail design)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;spolupráci s vývojovým a testovacím týmem během implementace&lt;/p&gt;</description>
     </item>
     <item>
       <title>Datové Sklady</title>
-      <link>https://example.com/cs/products/dwh/</link>
+      <link>https://jirimar.github.io/cs/products/dwh/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>https://example.com/cs/products/dwh/</guid>
+      <guid>https://jirimar.github.io/cs/products/dwh/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reporting &amp; BI</title>
-      <link>https://example.com/cs/products/reporting/</link>
+      <link>https://jirimar.github.io/cs/products/reporting/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>https://example.com/cs/products/reporting/</guid>
+      <guid>https://jirimar.github.io/cs/products/reporting/</guid>
       <description>&lt;p&gt;At ITology, we specialize in designing and delivering complete data warehouse solutions tailored to your business needs. Whether you are starting from scratch or looking to improve your current infrastructure, our team has the expertise to support you at every stage.&lt;/p&gt;&#xA;&lt;p&gt;We are experienced with both Microsoft SQL Server and Oracle platforms, allowing us to align our solutions with your existing environment or recommend the most suitable technology stack for your goals.&lt;/p&gt;</description>
     </item>
     <item>
       <title>IT podpora</title>
-      <link>https://example.com/cs/products/support/</link>
+      <link>https://jirimar.github.io/cs/products/support/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>https://example.com/cs/products/support/</guid>
+      <guid>https://jirimar.github.io/cs/products/support/</guid>
       <description>&lt;p&gt;IT podproa deatil&lt;/p&gt;</description>
     </item>
     <item>
       <title>Konzultace</title>
-      <link>https://example.com/cs/products/consulting/</link>
+      <link>https://jirimar.github.io/cs/products/consulting/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>https://example.com/cs/products/consulting/</guid>
+      <guid>https://jirimar.github.io/cs/products/consulting/</guid>
       <description>&lt;p&gt;Nabízíme komplexní služby v oblasti business analýzy, které pomáhají organizacím jasně definovat své potřeby a přetavit je do efektivních a realizovatelných IT řešení.&lt;/p&gt;&#xA;&lt;p&gt;Naši business analytici úzce spolupracují se stakeholdery na:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;identifikaci a upřesnění obchodních požadavků&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;vyhodnocení současného stavu a definici cílové vize&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;odhadu nákladů na realizaci a posouzení dopadů projektu&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;sestavení časových a kapacitních odhadů&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;přípravě detailního funkčního a technického návrhu (detail design)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;spolupráci s vývojovým a testovacím týmem během implementace&lt;/p&gt;</description>
     </item>
   </channel>
